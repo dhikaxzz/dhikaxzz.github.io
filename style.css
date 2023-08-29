@@ -3,7 +3,7 @@ body{
 }
 
 .jumbotron{
-    padding-top: 2rem;
+    padding-top: 6rem;
     background-color: #e2edff;
 }
 
@@ -14,4 +14,7 @@ body{
 
 p {
     margin-bottom: 0;
+}
+section{
+    padding-top: 5rem;
 }
